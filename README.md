@@ -4,6 +4,8 @@
 Your goal is simple: **click the moving target**, level up, and reach **100 points** before you run out of lives.
 
 ---
+<img width="811" height="645" alt="image" src="https://github.com/user-attachments/assets/adcdf917-abc9-4d26-aa93-6f86d497ec72" />
+
 
 ## 🧠 Game Concept
 
